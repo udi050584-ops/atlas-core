@@ -1,4 +1,4 @@
-# atlas-core# Project Atlas
+# Project Atlas
 
 > Small automations. Big freedom.
 
